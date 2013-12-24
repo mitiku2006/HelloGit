@@ -1,4 +1,4 @@
-this is for test
-once upon a time
+HelloGit
+========
 
-additional change
+To learn Git
